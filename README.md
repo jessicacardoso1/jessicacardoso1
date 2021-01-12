@@ -8,17 +8,17 @@
 * Bachelor's degree in Information Systems - UNEB(Universidade do Estado da Bahia)
 * Computer Technician - SENAI CIMATEC
 
+----
 
 ### :books: Interests and Activities:
 * I am currently working as a Development Intern at TCM-BA(Tribunal de Contas dos Municípios do Estado da Bahia)
 * I participated in the Rede de ações solidárias COM VIDA project at IFBA(Instituto Federal da Bahia)
 * I learn python, make friends and exchange knowledge with [Pyladies Salvador](https://github.com/PyLadiesSalvador)
+----
 
 
-
-
-View my stats on Github
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github:
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jessicacardoso1&show_icons=true)](https://github.com/jessicacardoso1/github-readme-stats)
 
-thank's for visiting :relaxed:
+Thank's for visiting :relaxed:
