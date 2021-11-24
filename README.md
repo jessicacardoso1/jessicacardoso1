@@ -7,11 +7,10 @@
 ### :mortar_board: Graduating: 
 * Bachelor's degree in Information Systems - UNEB(Universidade do Estado da Bahia)
 * Computer Technician - SENAI CIMATEC
-
 ----
 
 ### :books: Interests and Activities:
-* I'm currently working as a Development Intern at TCM-BA(Tribunal de Contas dos Municípios do Estado da Bahia)
+* I'm currently working as a Development Intern at QUALIDADOS.
 * I participated in the Rede de ações solidárias COM VIDA project at IFBA(Instituto Federal da Bahia)
 * I learn python, make friends and exchange knowledge with [Pyladies Salvador](https://github.com/PyLadiesSalvador)
 ----
