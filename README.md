@@ -10,7 +10,7 @@
 ----
 
 ### :books: Interests and Activities:
-* I'm currently working as a Development Intern at QUALIDADOS.
+* I'm currently working as a Development Intern at Qualidados Engenharia.
 * I participated in the Rede de ações solidárias COM VIDA project at IFBA(Instituto Federal da Bahia)
 * I learn python, make friends and exchange knowledge with [Pyladies Salvador](https://github.com/PyLadiesSalvador)
 ----
