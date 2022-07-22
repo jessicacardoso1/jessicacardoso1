@@ -2,7 +2,6 @@
 
 ### :sparkles: I'm Jéssica Cardoso! Let me present a little about myself! :)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicacardoso1/)](https://www.linkedin.com/in/jessicacardoso1/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_jejel/)](https://www.instagram.com/_jejel/)
 
 ### :mortar_board: Graduating: 
 * Bachelor's degree in Information Systems - UNEB(Universidade do Estado da Bahia)
